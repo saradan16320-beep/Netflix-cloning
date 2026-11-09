@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Offline - Simpan & Nonton Tanpa Internet",
+  "description": "Aplikasi streaming film dengan fitur download offline lengkap berbasis penyimpanan IndexedDB, pemutar video kustom, dan manajemen unduhan pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
